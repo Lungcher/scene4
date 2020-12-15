@@ -1,0 +1,498 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 2366,
+      "max": [
+        228.13365173339844,
+        117.94923400878906,
+        39.219322204589844
+      ],
+      "min": [
+        -228.13365173339844,
+        -146.1553955078125,
+        -133.34600830078125
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 28392,
+      "componentType": 5126,
+      "count": 2366,
+      "max": [
+        0.99998712539672852,
+        0.98516064882278442,
+        0.99892449378967285
+      ],
+      "min": [
+        -0.99989360570907593,
+        -0.9977603554725647,
+        -0.99929714202880859
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 2366,
+      "max": [
+        0.99983036518096924,
+        0.99362117052078247,
+        0.99971157312393188,
+        1
+      ],
+      "min": [
+        -0.99980968236923218,
+        -0.9997861385345459,
+        -0.9995044469833374,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 2366,
+      "max": [
+        0.99436599016189575,
+        0.99511700868606567
+      ],
+      "min": [
+        0.004883000161498785,
+        0.004883000161498785
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 9642,
+      "max": [
+        2365
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 56784,
+      "componentType": 5126,
+      "count": 860,
+      "max": [
+        184.19987487792969,
+        146.1553955078125,
+        133.34600830078125
+      ],
+      "min": [
+        -136.27627563476562,
+        -135.56324768066406,
+        -115.34664154052734
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 67104,
+      "componentType": 5126,
+      "count": 860,
+      "max": [
+        0.99951434135437012,
+        0.93927133083343506,
+        0.98394477367401123
+      ],
+      "min": [
+        -0.99918538331985474,
+        -0.94855952262878418,
+        -0.93518012762069702
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 37856,
+      "componentType": 5126,
+      "count": 860,
+      "max": [
+        0.99999755620956421,
+        0.97753328084945679,
+        0.96161502599716187,
+        1
+      ],
+      "min": [
+        -0.99075543880462646,
+        -0.68634015321731567,
+        -0.97445541620254517,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 18928,
+      "componentType": 5126,
+      "count": 860,
+      "max": [
+        0.99447399377822876,
+        0.99511700868606567
+      ],
+      "min": [
+        0.004883000161498785,
+        0.004883000161498785
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 38568,
+      "componentType": 5125,
+      "count": 2196,
+      "max": [
+        859
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "trashart (https://sketchfab.com/trash-art)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/fan-art-death-stranding-book-aa51538e27574c828d44bc6c088d5f86",
+      "title": "Fan Art: Death Stranding Book"
+    },
+    "generator": "Sketchfab-8.72.3",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 47352,
+      "byteOffset": 0,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 25808,
+      "byteOffset": 47352,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 77424,
+      "byteOffset": 73160,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 51616,
+      "byteOffset": 150584,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 202200,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/mat_book_baseColor.png"
+    },
+    {
+      "uri": "textures/mat_book_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/mat_book_emissive.jpeg"
+    },
+    {
+      "uri": "textures/mat_book_normal.png"
+    },
+    {
+      "uri": "textures/mat_pages_baseColor.png"
+    },
+    {
+      "uri": "textures/mat_pages_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/mat_pages_emissive.jpeg"
+    },
+    {
+      "uri": "textures/mat_pages_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "alphaMode": "BLEND",
+      "doubleSided": true,
+      "emissiveFactor": [
+        1,
+        1,
+        1
+      ],
+      "emissiveTexture": {
+        "index": 2,
+        "texCoord": 0
+      },
+      "name": "mat_book",
+      "normalTexture": {
+        "index": 3,
+        "scale": 1,
+        "texCoord": 0
+      },
+      "occlusionTexture": {
+        "index": 1,
+        "strength": 1,
+        "texCoord": 0
+      },
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0,
+          "texCoord": 0
+        },
+        "metallicFactor": 1,
+        "metallicRoughnessTexture": {
+          "index": 1,
+          "texCoord": 0
+        },
+        "roughnessFactor": 1
+      }
+    },
+    {
+      "alphaMode": "BLEND",
+      "doubleSided": true,
+      "emissiveFactor": [
+        1,
+        1,
+        1
+      ],
+      "emissiveTexture": {
+        "index": 6,
+        "texCoord": 0
+      },
+      "name": "mat_pages",
+      "normalTexture": {
+        "index": 7,
+        "scale": 1,
+        "texCoord": 0
+      },
+      "occlusionTexture": {
+        "index": 5,
+        "strength": 1,
+        "texCoord": 0
+      },
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 4,
+          "texCoord": 0
+        },
+        "metallicFactor": 1,
+        "metallicRoughnessTexture": {
+          "index": 5,
+          "texCoord": 0
+        },
+        "roughnessFactor": 1
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "defaultMaterial",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "defaultMaterial",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TANGENT": 7,
+            "TEXCOORD_0": 8
+          },
+          "indices": 9,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "RootNode (gltf orientation matrix)",
+      "rotation": [
+        -0.70710678118654746,
+        -0,
+        -0,
+        0.70710678118654757
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        -1.8796114886754367e-07,
+        -1.7210010128110298e-06,
+        1
+      ],
+      "name": "RootNode (model correction matrix)"
+    },
+    {
+      "children": [
+        3
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        -4.3711390063094768e-08,
+        0.999999999999999,
+        0,
+        0,
+        -0.999999999999999,
+        -4.3711390063094768e-08,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "name": "Collada visual scene group"
+    },
+    {
+      "children": [
+        4,
+        6
+      ],
+      "name": "PaladinBook"
+    },
+    {
+      "children": [
+        5
+      ],
+      "name": "Book"
+    },
+    {
+      "mesh": 0,
+      "name": "defaultMaterial"
+    },
+    {
+      "children": [
+        7
+      ],
+      "name": "Pages"
+    },
+    {
+      "mesh": 1,
+      "name": "defaultMaterial"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "OSG_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "sampler": 0,
+      "source": 3
+    },
+    {
+      "sampler": 0,
+      "source": 4
+    },
+    {
+      "sampler": 0,
+      "source": 5
+    },
+    {
+      "sampler": 0,
+      "source": 6
+    },
+    {
+      "sampler": 0,
+      "source": 7
+    }
+  ]
+}
+
